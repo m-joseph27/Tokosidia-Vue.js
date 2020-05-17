@@ -39,7 +39,7 @@
 ## Usage for development
 
 1. Open your terminal or command prompt
-2. Type `git clone https://github.com/HiRahmat-Dev/tokosidia-vuejs.git`
+2. Type `git clone https://github.com/m-joseph27/Tokosidia-Vue.js.git`
 3. Open the folder and type `npm install` for install dependencies
 4. Create Environment Variable [here](#create-environment-variable)
 5. Before run this, you must run backend first
@@ -75,7 +75,7 @@ VUE_APP_SECRET_KEY_TOKEN=YOUR_API_KEY
 
 ## Related Project (Backend)
 
-* [`Backend-Tokosidia`](https://github.com/HiRahmat-Dev/tokosidia-API)
+* [`Backend-Tokosidia`](https://github.com/m-joseph27/Tokosidia-API)
 
 ## Contributors
 
